@@ -15,6 +15,4 @@ SenseiAQ App for connecting with Piera-1 and Canāree sensors
 
 Attach the sensor via USB and start SenseiAQ. Wait at least 1 minute for SenseiAQ to collect enough readings to calculate AQI.
 
-Data can be viewed within SenseiAQ, saved to a log file, or sent to Azure's IoT Hub.
-
-Logs are stored at "%appdata%\SenseiAQ\sensor-logs" on Windows 10 and "~/Library/Application Support/SenseiAQ/sensor-logs" on MacOS
+Data can be viewed within SenseiAQ, saved to a log file, or sent to Azure's IoT Hub. Logs are stored at "%appdata%\SenseiAQ\sensor-logs" on Windows 10 and "~/Library/Application Support/SenseiAQ/sensor-logs" on MacOS
