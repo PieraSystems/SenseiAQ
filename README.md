@@ -4,7 +4,7 @@ SenseiAQ App for connecting with Piera-7100 and Canāree sensors
 ## Package Downloads
 **[Windows 10 Installer](https://github.com/PieraSystems/SenseiAQ/releases/download/0.9.4win/SenseiAQ-0.9.4.Setup.exe)**
 
-**[MacOS Installer](https://github.com/PieraSystems/SenseiAQ/releases/download/0.9.4mac/SenseiAQ-darwin-x64-0.9.4.zip)**
+**[MacOS Installer (10.15+ required)](https://github.com/PieraSystems/SenseiAQ/releases/download/0.9.4mac/SenseiAQ-darwin-x64-0.9.4.zip)**
 
 ## Installation Notes
 **Windows 10** - If Microsoft Defender blocks the app, select "More info" and then "Run anyway". 
