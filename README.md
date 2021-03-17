@@ -9,7 +9,7 @@ SenseiAQ App for connecting with Piera-7100 and Canāree sensors
 ## Installation Notes
 **Windows 10** - If Microsoft Defender blocks the app, select "More info" and then "Run anyway". 
 
-**MacOS** - Control-click the app icon, then choose "Open" from the shortcut menu.
+**MacOS** - Secondary-click the app icon, then choose "Open" from the shortcut menu (currently awaiting Mac App Store approval).
 
 ## Usage
 
