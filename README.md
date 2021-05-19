@@ -31,4 +31,4 @@ Try shutting down any programs and unplugging USB devices that could potentially
 1. Download the [Universal Windows Driver](https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip) from SiLabs.com.
 1. Right-click on *CP210x_Universal_Windows_Driver.zip*, choose "Extract All..." and then "Extract".
 1. Enter the *CP210x_Universal_Windows_Driver* folder and run *CP210xVCPInstaller_x64.exe*.
-1. Follow instruction in Installation Wizard.
+1. Follow instructions in Installation Wizard to complete installation.
