@@ -7,7 +7,7 @@ SenseiAQ App for connecting with Piera-7100 and Canāree sensors
 **[MacOS Installer (10.15+ required)](https://github.com/PieraSystems/SenseiAQ/releases/download/v0.9.5/SenseiAQ-095-macOS-x64.zip)**
 
 ## Installation Notes
-**Windows 10** - If Microsoft Defender blocks the app, select "More info" and then "Run anyway". In some environments, manual installation of the [Silicon Labs driver](https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip) is required. 
+**Windows 10** - If Microsoft Defender blocks the app, select "More info" and then "Run anyway". In some environments, manual installation of the [Silicon Labs driver](#driver-installation-windows-10) is required. 
 
 **MacOS** - Secondary-click the app icon, then choose "Open" from the shortcut menu (currently awaiting Mac App Store approval).
 
