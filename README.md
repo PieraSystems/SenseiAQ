@@ -11,6 +11,10 @@ SenseiAQ App for connecting with Piera-7100 and Canāree sensors
 
 **MacOS** - Secondary-click the app icon, then choose "Open" from the shortcut menu (currently awaiting Mac App Store approval).
 
+## Documentation
+[SenseiAQ 0.9.5 Documentation (PDF)](https://github.com/PieraSystems/SenseiAQ/releases/download/v0.9.5doc/SenseiAQ.Documentation.V1.0.pdf)
+[SenseiAQ 0.9.5 Documentation (DOCX)](https://github.com/PieraSystems/SenseiAQ/releases/download/v0.9.5doc/SenseiAQ.Documentation.V1.0.docx)
+
 ## Updates
 May 11, 2021 - Version 0.9.5 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v0.9.5)).
 
