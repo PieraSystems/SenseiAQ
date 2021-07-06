@@ -2,9 +2,9 @@
 SenseiAQ App for connecting with Piera-7100 and Canāree sensors
 
 ## Package Downloads
-**[Windows 10 Installer](https://github.com/PieraSystems/SenseiAQ/releases/download/v0.9.5/SenseiAQ-095-Win10.exe)**
+**[Windows 10 Installer](https://github.com/PieraSystems/SenseiAQ/releases/download/v1.0.0/SenseiAQ-1.0.0-Win10-Setup.exe)**
 
-**[MacOS Installer (10.15+ required)](https://github.com/PieraSystems/SenseiAQ/releases/download/v0.9.5/SenseiAQ-095-macOS-x64.zip)**
+**[MacOS Installer (10.15+ required)](https://github.com/PieraSystems/SenseiAQ/releases/download/v1.0.0/SenseiAQ-1.0.0-macOS.zip)**
 
 ## Installation Notes
 **Windows 10** - If Microsoft Defender blocks the app, select "More info" and then "Run anyway". In some environments, manual installation of the [Silicon Labs driver](#driver-installation-windows-10) is required. 
@@ -16,7 +16,8 @@ SenseiAQ App for connecting with Piera-7100 and Canāree sensors
 * [SenseiAQ 0.9.5 User Guide (DOCX)](https://github.com/PieraSystems/SenseiAQ/releases/download/v0.9.5user-guide/SenseiAQ.User-Guide.V1.0.docx)
 
 ## Updates
-May 11, 2021 - Version 0.9.5 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v0.9.5)).
+* June 6, 2021 - Version 1.0.0 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v1.0.0)).
+* May 11, 2021 - Version 0.9.5 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v0.9.5)).
 
 ## Usage
 
