@@ -35,7 +35,16 @@ Try shutting down any programs and unplugging USB devices that could potentially
 
 ## Driver Installation (Windows 10)
 
+### IPS Series, Canāree A1, Canāree I1/I5
+
 1. Download the [Universal Windows Driver](https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip) from SiLabs.com.
 1. Right-click on *CP210x_Universal_Windows_Driver.zip*, choose "Extract All..." and then "Extract".
 1. Enter the *CP210x_Universal_Windows_Driver* folder and run *CP210xVCPInstaller_x64.exe*.
 1. Follow instructions in Installation Wizard to complete installation.
+
+### Canāree I1E
+
+1. Download the [USB Windows Driver](https://www.olimex.com/Products/Breadboarding/BB-CH340T/resources/CH341SER.zip) from Olimex.com.
+1. Right-click on *CH341SER.zip*, choose "Extract All..." and then "Extract".
+1. Enter the *CH341SER* folder and run *CH341SER.EXE*.
+1. Click Install button.
