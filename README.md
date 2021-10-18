@@ -12,8 +12,26 @@ SenseiAQ app for connecting with Piera Systems IPS and Canāree sensors.
 **MacOS** - Secondary-click the app icon, then choose "Open" from the shortcut menu (currently awaiting Mac App Store approval).
 
 ## User Guide
-* [SenseiAQ User Guide (PDF)](https://github.com/PieraSystems/SenseiAQ/releases/download/v0.9.5user-guide/SenseiAQ.User-Guide.V1.0.pdf)
-* [SenseiAQ User Guide (DOCX)](https://github.com/PieraSystems/SenseiAQ/releases/download/v0.9.5user-guide/SenseiAQ.User-Guide.V1.0.docx)
+* [SenseiAQ User Guide (PDF)](https://pierasystems.com/wp-content/uploads/2021/10/SenseiAQ-Documentation-122.pdf)
+* [I1E Config Guide (PDF)](https://pierasystems.com/download-attachment/3866)
+
+
+## Driver Installation (Windows 10)
+
+### IPS Series, Canāree A1, Canāree I1/I5
+
+1. Download the [Universal Windows Driver](https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip) from SiLabs.com.
+1. Right-click on *CP210x_Universal_Windows_Driver.zip*, choose "Extract All..." and then "Extract".
+1. Enter the *CP210x_Universal_Windows_Driver* folder and run *CP210xVCPInstaller_x64.exe*.
+1. Follow instructions in Installation Wizard to complete installation.
+
+### Canāree I1E
+
+1. Download the [USB Windows Driver](https://www.olimex.com/Products/Breadboarding/BB-CH340T/resources/CH341SER.zip) from Olimex.com.
+1. Right-click on *CH341SER.zip*, choose "Extract All..." and then "Extract".
+1. Enter the *CH341SER* folder and run *CH341SER.EXE*.
+1. Click Install button.
+
 
 ## Updates
 * October 7, 2021 - Version 1.2.3 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v1.2.3)).
@@ -32,19 +50,3 @@ Data can be viewed within SenseiAQ, saved to a log file, or sent to Azure's IoT 
 In some cases the device may be working but fails to communcate with SenseiAQ. If there's any other programs running that may be using communication ports, such as serial monitoring or logging software, it can prevent SenseiAQ from communicating with the device. Certain USB devices, such as IoT development boards, can also intefere with SenseiAQ's detection of the Piera/Canaree device.
 
 Try shutting down any programs and unplugging USB devices that could potentially be interfering, then unplug the Piera/Canaree device and restart SenseiAQ. With SenseiAQ running, plug the device in again and wait up to a minute for it to start communicating.
-
-## Driver Installation (Windows 10)
-
-### IPS Series, Canāree A1, Canāree I1/I5
-
-1. Download the [Universal Windows Driver](https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip) from SiLabs.com.
-1. Right-click on *CP210x_Universal_Windows_Driver.zip*, choose "Extract All..." and then "Extract".
-1. Enter the *CP210x_Universal_Windows_Driver* folder and run *CP210xVCPInstaller_x64.exe*.
-1. Follow instructions in Installation Wizard to complete installation.
-
-### Canāree I1E
-
-1. Download the [USB Windows Driver](https://www.olimex.com/Products/Breadboarding/BB-CH340T/resources/CH341SER.zip) from Olimex.com.
-1. Right-click on *CH341SER.zip*, choose "Extract All..." and then "Extract".
-1. Enter the *CH341SER* folder and run *CH341SER.EXE*.
-1. Click Install button.
