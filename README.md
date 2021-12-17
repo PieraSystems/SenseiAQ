@@ -25,7 +25,7 @@ SenseiAQ app for connecting with Piera Systems IPS and Canāree sensors.
 1. Enter the *CP210x_Universal_Windows_Driver* folder and run *CP210xVCPInstaller_x64.exe*.
 1. Follow instructions in Installation Wizard to complete installation.
 
-### Canāree I1E
+### Canāree R1/I1E
 
 1. Download the [USB Windows Driver](https://www.olimex.com/Products/Breadboarding/BB-CH340T/resources/CH341SER.zip) from Olimex.com.
 1. Right-click on *CH341SER.zip*, choose "Extract All..." and then "Extract".
