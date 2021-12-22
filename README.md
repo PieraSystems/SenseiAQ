@@ -12,8 +12,8 @@ SenseiAQ app for connecting with Piera Systems IPS and Canāree sensors.
 **MacOS** - Secondary-click the app icon, then choose "Open" from the shortcut menu (currently awaiting Mac App Store approval).
 
 ## User Guide
-* [SenseiAQ User Guide (PDF)](https://pierasystems.com/wp-content/uploads/2021/10/SenseiAQ-Documentation-122.pdf)
-* [I1E Config Guide (PDF)](https://pierasystems.com/download-attachment/3866)
+* [SenseiAQ User Guide (PDF)](https://pierasystems.com/download-attachment/3871)
+* [R-Series Config Guide (PDF)](https://pierasystems.com/download-attachment/3921)
 
 
 ## Driver Installation (Windows 10)
@@ -22,10 +22,10 @@ SenseiAQ app for connecting with Piera Systems IPS and Canāree sensors.
 
 1. Download the [Universal Windows Driver](https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip) from SiLabs.com.
 1. Right-click on *CP210x_Universal_Windows_Driver.zip*, choose "Extract All..." and then "Extract".
-1. Enter the *CP210x_Universal_Windows_Driver* folder and run *CP210xVCPInstaller_x64.exe*.
+1. In the directory Right click on the silabser.inf file and select Install
 1. Follow instructions in Installation Wizard to complete installation.
 
-### Canāree R1/I1E
+### Canāree R-Series 
 
 1. Download the [USB Windows Driver](https://www.olimex.com/Products/Breadboarding/BB-CH340T/resources/CH341SER.zip) from Olimex.com.
 1. Right-click on *CH341SER.zip*, choose "Extract All..." and then "Extract".
