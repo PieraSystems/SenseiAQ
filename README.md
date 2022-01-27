@@ -9,7 +9,7 @@ SenseiAQ app for connecting with Piera Systems IPS and Canāree sensors.
 ## Installation Notes
 **Windows 10** - If Microsoft Defender blocks the app, select "More info" and then "Run anyway". In some environments, manual installation of the [Silicon Labs driver](#driver-installation-windows-10) is required. 
 
-**MacOS** - Secondary-click the app icon, then choose "Open" from the shortcut menu (currently awaiting Mac App Store approval).
+**MacOS** - Secondary-click the app icon, then choose "Open" from the shortcut menu (currently awaiting Mac App Store approval). For 10.14 (Mojave), [a driver update](https://www.silabs.com/documents/public/software/Mac_OSX_VCP_Driver.zip) needs to be installed for Canaree I-series, A-series and IPS sensors. 
 
 ## User Guide
 * [SenseiAQ User Guide (PDF)](https://pierasystems.com/download-attachment/3871)
