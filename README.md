@@ -2,9 +2,9 @@
 SenseiAQ app for connecting with Piera Systems IPS and Canāree sensors.
 
 ## Package Downloads
-**[Windows 10 Installer](https://github.com/PieraSystems/SenseiAQ/releases/download/v1.5.3/SenseiAQ-1.5.3-Setup-Win.exe)**
+**[Windows 10 Installer](https://github.com/PieraSystems/SenseiAQ/releases/download/v1.6.1/SenseiAQ-1.6.1-Setup-Win.exe)**
 
-**[MacOS Installer (10.15+ required)](https://github.com/PieraSystems/SenseiAQ/releases/download/v1.5.3/SenseiAQ-1.5.3-macOS.zip)**
+**[MacOS Installer (10.15+ required)](https://github.com/PieraSystems/SenseiAQ/releases/download/v1.6.1/SenseiAQ-1.6.1-macOS.zip)**
 
 ## Installation Notes
 **Windows 10** - If Microsoft Defender blocks the app, select "More info" and then "Run anyway". In some environments, manual installation of the [Silicon Labs driver](#driver-installation-windows-10) is required. 
@@ -34,6 +34,7 @@ SenseiAQ app for connecting with Piera Systems IPS and Canāree sensors.
 
 
 ## Updates
+* Mar 7, 2022 - Version 1.6.1 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v1.6.1)).
 * Dec 17, 2021 - Version 1.5.3 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v1.5.3)). 
 * Oct 7, 2021 - Version 1.2.3 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v1.2.3)).
 * Jul 26, 2021 - Version 1.1.0 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v1.1.0)).
