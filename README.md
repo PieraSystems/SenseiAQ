@@ -44,12 +44,12 @@ This software is provided with all Piera sensors while the Cloud-reporting funct
 * MacOS 10.14+  (x64 and ARM/M1 platforms) 
 
 ## Piera devices Supported in this release :
-* Original IPS-S Series running Firmware Version 1.8 (Serial# ending in V18) 
-* IPS-7100 Series running Firmware Version 1.9.12 or newer
-* IPS-5100 Series running Firmware Version 1.9.12 or newer
-* IPS-3100 Series running Firmware Version 1.9.12 or newer
-* Canaree A-Series running Version 1.9.12 or newer firmware
-* Canaree I-Series running Version 1.9.12 or newer firmware
+* Original **IPS-S** running Firmware Version 1.8 (Serial# ending in V18) 
+* **IPS-7100** running Firmware Version 1.9.12 or newer
+* **IPS-5100** running Firmware Version 1.9.12 or newer
+* **IPS-3100** running Firmware Version 1.9.12 or newer
+* **Canaree A-Series** running Version 1.9.12 or newer firmware
+* **Canaree I-Series** running Version 1.9.12 or newer firmware
 
 
 ## Updates
@@ -70,6 +70,7 @@ Local Logging of USB-connected devices is supported via CSV Log File.  Future re
 Cloud Logging of devices registered to your account is supported with updates every 60-seconds for all products under a current AQMS Contract with Piera. 
 
 The full user-guide for SenseiAQ 2.0.1 is available from our support site:
+
 https://pierasystems.com/download-attachment/4210
 
 ## Troubleshooting
