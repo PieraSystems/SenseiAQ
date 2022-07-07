@@ -43,7 +43,7 @@ This software is provided with all Piera sensors while the Cloud-reporting funct
 * Windows 10 / Windows 7 (x64 Platforms) 
 * MacOS 10.14+  (x64 and ARM/M1 platforms) 
 
-## Piera devices Supported in this release :
+## Piera Devices Supported in This Release :
 * Original **IPS-S** running Firmware Version 1.8 (Serial# ending in V18) 
 * **IPS-7100** running Firmware Version 1.9.12 or newer
 * **IPS-5100** running Firmware Version 1.9.12 or newer
