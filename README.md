@@ -1,11 +1,12 @@
 # SenseiAQ 2.0.1
 ***Real-Time Air Quality Monitoring App for Piera Sensors & Canāree Air Quality Monitors***
+
 *Release Notes - Version 2.0.1 Updated 6/23/2022*
 
 ## Package Downloads
 **[Windows 10 Installer](https://github.com/PieraSystems/SenseiAQ/releases/download/v2.0.1/SenseiAQ-2.0.1-win10-x64.msi)**
 
-**[MacOS Installer (10.15+ required)](https://github.com/PieraSystems/SenseiAQ/releases/download/v2.0.1/SenseiAQ-2.0.1-macOS-x64.zip)**
+**[MacOS Installer (10.14+ required)](https://github.com/PieraSystems/SenseiAQ/releases/download/v2.0.1/SenseiAQ-2.0.1-macOS-x64.zip)**
 
 SenseiAQ software for Piera Systems enables real time Air Quality Monitoring using data from Piera’s family of Intelligent Particle Sensors (IPS) and Canāree Air Quality Monitors. It collects particle count / mass concentration data via a USB connected Piera sensor, and stores data locally on the connected device for logging and analysis. It is available as a download at no charge and supports the IPS Evaluation Kit and all Canāree series AQM’s. 
 
@@ -80,15 +81,16 @@ Try shutting down any programs and unplugging USB devices that could potentially
 If you're using an IPS sensor with SenseiAQ and data isn't showing up in the cloud, please check your firewall settings. SenseiAQ uses port 8883 (MQTT) to send data to Azure IoT Hub, and may need to be whitelisted in some cases.
 
 Known Issues:
-* 62222-2 SenseiAQ App only supports a single Piera sensor connected via USB on each PC. Multiple Piera devices are not currently supported in SenseiAQ App. 
-* 62222-5 If running other USB Devices using the same CP2102 chipset, SenseiAQ may fail to detect your device. Try removing other USB devices that may be conflicting and restarting the SenseiAQ App with only your Piera device connected to USB.
-* 62222-6 Device Registration popup may take up to 60 seconds to complete and disappear and requires Internet access from the PC to successfully register 
-* 62222-3 When updating Wifi settings the message “Unable to Connect to Wifi” is briefly displayed prior to “device rebooting” message. If the device successfully connects to Wifi after rebooting this message will no longer be displayed after the device reboots. 
-* 62222-4 Canaree R-Series is not supported in this release, a subsequent maintenance release will include support for R1/R5 running the latest firmware. R-Series users can continue to use SenseiAQ 1.6.1 
-* 62222-7 If Firmware Updates fail on Canaree I-Series, the device may take up to 2 minutes to reappear on the SenseiAQ App. Wifi must be configured and operating on your Canaree I-Series device to successfully update firmware. 
+* **62222-2** SenseiAQ App only supports a single Piera sensor connected via USB on each PC. Multiple Piera devices are not currently supported in SenseiAQ App. 
+* **62222-5** If running other USB Devices using the same CP2102 chipset, SenseiAQ may fail to detect your device. Try removing other USB devices that may be conflicting and restarting the SenseiAQ App with only your Piera device connected to USB.
+* **62222-6** Device Registration popup may take up to 60 seconds to complete and disappear and requires Internet access from the PC to successfully register 
+* **62222-3** When updating Wifi settings the message “Unable to Connect to Wifi” is briefly displayed prior to “device rebooting” message. If the device successfully connects to Wifi after rebooting this message will no longer be displayed after the device reboots. 
+* **62222-4** Canaree R-Series is not supported in this release, a subsequent maintenance release will include support for R1/R5 running the latest firmware. R-Series users can continue to use SenseiAQ 1.6.1 
+* **62222-7** If Firmware Updates fail on Canaree I-Series, the device may take up to 2 minutes to reappear on the SenseiAQ App. Wifi must be configured and operating on your Canaree I-Series device to successfully update firmware. 
 
 
 **Copyright© 2022, by PIERA SYSTEMS.**
+
 **SenseiAQ® is a product trademark of PIERA SYSTEMS. All rights reserved.**
 
 *Piera Systems Inc. reserves the right to make corrections, modifications, enhancements, improvements and other changes to its products and services at any time and to discontinue any product or service without notice. Please contact Piera Systems anytime to obtain the latest relevant information.*
