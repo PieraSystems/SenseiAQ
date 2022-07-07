@@ -81,7 +81,7 @@ Try shutting down any programs and unplugging USB devices that could potentially
 
 If you're using an IPS sensor with SenseiAQ and data isn't showing up in the cloud, please check your firewall settings. SenseiAQ uses port 8883 (MQTT) to send data to Azure IoT Hub, and may need to be whitelisted in some cases.
 
-Known Issues:
+**Known Issues**:
 * **62222-2** SenseiAQ App only supports a single Piera sensor connected via USB on each PC. Multiple Piera devices are not currently supported in SenseiAQ App. 
 * **62222-5** If running other USB Devices using the same CP2102 chipset, SenseiAQ may fail to detect your device. Try removing other USB devices that may be conflicting and restarting the SenseiAQ App with only your Piera device connected to USB.
 * **62222-6** Device Registration popup may take up to 60 seconds to complete and disappear and requires Internet access from the PC to successfully register 
