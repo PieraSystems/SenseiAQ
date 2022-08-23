@@ -1,12 +1,12 @@
-# SenseiAQ 2.0.1
+# SenseiAQ 2.0.2
 ***Real-Time Air Quality Monitoring App for Piera Sensors & Canāree Air Quality Monitors***
 
-*Release Notes - Version 2.0.1 Updated 6/23/2022*
+*Release Notes - Version 2.0.2 Updated 8/23/2022*
 
 ## Package Downloads
-**[Windows 10 Installer](https://github.com/PieraSystems/SenseiAQ/releases/download/v2.0.1/SenseiAQ-2.0.1-win10-x64.msi)**
+**[Windows 10 Installer](https://github.com/PieraSystems/SenseiAQ/releases/download/v2.0.2/SenseiAQ-2.0.2-win-x64.msi)**
 
-**[MacOS Installer (10.14+ required)](https://github.com/PieraSystems/SenseiAQ/releases/download/v2.0.1/SenseiAQ-2.0.1-macOS-x64.zip)**
+**[MacOS Installer (10.14+ required)](https://github.com/PieraSystems/SenseiAQ/releases/download/v2.0.2/SenseiAQ-2.0.2-mac-x64.zip)**
 
 SenseiAQ software for Piera Systems enables real time Air Quality Monitoring using data from Piera’s family of Intelligent Particle Sensors (IPS) and Canāree Air Quality Monitors. It collects particle count / mass concentration data via a USB connected Piera sensor, and stores data locally on the connected device for logging and analysis. It is available as a download at no charge and supports the IPS Evaluation Kit and all Canāree series AQM’s. 
 
@@ -53,6 +53,7 @@ This software is provided with all Piera sensors while the Cloud-reporting funct
 
 
 ## Updates
+* Aug 23, 2022 - Version 2.0.2 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v2.0.2)).
 * Jun 7, 2022 - Version 2.0.1 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v2.0.1)).
 * Mar 7, 2022 - Version 1.6.1 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v1.6.1)).
 * Dec 17, 2021 - Version 1.5.3 released ([view release notes](https://github.com/PieraSystems/SenseiAQ/releases/tag/v1.5.3)). 
