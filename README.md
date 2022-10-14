@@ -71,9 +71,7 @@ Local Logging of USB-connected devices is supported via CSV Log File.  Future re
 
 Cloud Logging of devices registered to your account is supported with updates every 60-seconds for all products under a current AQMS Contract with Piera. 
 
-The full user-guide for SenseiAQ 2.0.1 is available from our support site:
-
-https://pierasystems.com/download-attachment/4210
+The [full user-guide for SenseiAQ 2.0 is available from our support site](https://pierasystems.com/download-attachment/4210).
 
 ## Troubleshooting
 
