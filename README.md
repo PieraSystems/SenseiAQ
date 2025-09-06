@@ -4,7 +4,7 @@
 *Release Notes - Version 2.0.4 Updated 10/14/2022*
 
 ## Package Downloads
-**[Windows 10 Installer](https://github.com/PieraSystems/SenseiAQ/releases/download/v2.0.4/SenseiAQ-2.0.4-win-x64.msi)**
+**[Windows 10/11 Installer](https://github.com/PieraSystems/SenseiAQ/releases/download/v2.0.4/SenseiAQ-2.0.4-win-x64.msi)**
 
 **[MacOS Installer (10.14+ required)](https://github.com/PieraSystems/SenseiAQ/releases/download/v2.0.4/SenseiAQ-2.0.4-mac-x64.zip)**
 
@@ -19,11 +19,11 @@ Canaree I-5 Devices support additional environmental monitors including: Tempera
 This software is provided with all Piera sensors while the Cloud-reporting functionality is included free for 90 days after which a customer must purchase yearly subscription to continue to use Piera’s Air Quality Monitoring Service (AQMS)
 
 ## Installation Notes
-**Windows 10** - If Microsoft Defender blocks the app, select "More info" and then "Run anyway". In some environments, manual installation of the [Silicon Labs driver](#driver-installation-windows-10) is required. 
+**Windows 10 / 11** - If Microsoft Defender blocks the app, select "More info" and then "Run anyway". In some environments, manual installation of the [Silicon Labs driver](#driver-installation-windows-10) is required. 
 
 **MacOS** - Secondary-click the app icon, then choose "Open" from the shortcut menu (currently awaiting Mac App Store approval). For 10.14 (Mojave), [a driver update](https://www.silabs.com/documents/public/software/Mac_OSX_VCP_Driver.zip) needs to be installed for Canaree I-series, A-series and IPS sensors. 
 
-## Driver Installation (Windows 10)
+## Driver Installation (Windows 10 / 11)
 
 ### IPS Series, Canāree A1, Canāree I1/I5
 
