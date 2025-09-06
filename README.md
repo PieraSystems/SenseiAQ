@@ -40,7 +40,7 @@ This software is provided with all Piera sensors while the Cloud-reporting funct
 1. Click Install button.
 
 ## Operating Systems Supported :
-* Windows 10 / Windows 7 (x64 Platforms) 
+* Windows 11 / Windows 10 / Windows 7 (x64 Platforms) 
 * MacOS 10.14+  (x64 and ARM/M1 platforms) 
 
 ## Piera Devices Supported in This Release :
